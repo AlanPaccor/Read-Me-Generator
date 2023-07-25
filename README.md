@@ -2,19 +2,19 @@
       # Read-Me Generator
   
       ## Description
-      Generates a Professional Read Me File
+      Creates a Read-Me file
   
       ## Installation
-      run command "node index.js"
+      run the "node index.js" command
   
       ## Usage
-      To make a read me file
+      makes a read me file
   
       ## Contributing
-      Make a professional level read me file
+      answer the questions
   
       ## Tests
-      answer responses
+      respond to the questions based on your own project details
   
       ## License
       This project is licensed under the MIT License.
